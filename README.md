@@ -1,6 +1,6 @@
 
 
-# http build query in javascrpt
+# http build query in javascript
 
 
 
